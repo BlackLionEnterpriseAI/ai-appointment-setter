@@ -1,4 +1,3 @@
-# ai-appointment-setter
 # Black Lion Automation – AI Appointment Setter Agent
 
 ## 🚀 Overview  
